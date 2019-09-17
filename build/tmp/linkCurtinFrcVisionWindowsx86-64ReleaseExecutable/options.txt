@@ -1,0 +1,32 @@
+/DEBUG:FULL
+/OPT:REF
+/OPT:ICF
+/OUT:D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcVision\windowsx86-64\release\curtinFrcVision.exe
+/NOLOGO
+/LIBPATH:D:\VisualStudio\VC\Tools\MSVC\14.20.27508\lib\x64
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17763.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17763.0\ucrt\x64"
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\objs\curtinFrcVision\windowsx86-64\release\curtinFrcVisionCpp\52e3v9bwz1nbejh67xahh7hvd\vision.obj
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\objs\curtinFrcVision\windowsx86-64\release\curtinFrcVisionCpp\biznmyfp3z431mmtf5jlwqjsh\main.obj
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_calib3d344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_core344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_features2d344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_flann344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_highgui344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_imgcodecs344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_imgproc344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_ml344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_objdetect344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_photo344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_shape344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_stitching344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_superres344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_video344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_videoio344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae\windows\x86-64\shared\opencv_videostab344.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cameraserver-cpp-2019.3.1-windowsx86-64.zip_565ca84ed095eebfb6560c5c2898abf8\windows\x86-64\shared\cameraserver.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cscore-cpp-2019.3.1-windowsx86-64.zip_957bb6dbdbdb8f8432b34c6228855c7e\windows\x86-64\shared\cscore.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cscore-cpp-2019.3.1-windowsx86-64.zip_957bb6dbdbdb8f8432b34c6228855c7e\windows\x86-64\shared\cscorejni.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\ntcore-cpp-2019.3.1-windowsx86-64.zip_e2ffb700bfed4fa4b5199358040a4830\windows\x86-64\shared\ntcore.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\ntcore-cpp-2019.3.1-windowsx86-64.zip_e2ffb700bfed4fa4b5199358040a4830\windows\x86-64\shared\ntcorejni.lib
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\wpiutil-cpp-2019.3.1-windowsx86-64.zip_f8f19d13959f28d842006d39fcbdf67c\windows\x86-64\shared\wpiutil.lib

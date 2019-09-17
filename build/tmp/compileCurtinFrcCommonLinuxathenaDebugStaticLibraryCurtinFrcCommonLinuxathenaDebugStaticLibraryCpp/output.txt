@@ -1,0 +1,32 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcCommonLinuxathenaDebugStaticLibraryCurtinFrcCommonLinuxathenaDebugStaticLibraryCpp/output.txt for all output for compileCurtinFrcCommonLinuxathenaDebugStaticLibraryCurtinFrcCommonLinuxathenaDebugStaticLibraryCpp.
+compiling BinaryEncoderMotor.cpp successful.
+
+compiling BinaryLimitMotor.cpp successful.
+
+compiling DoubleSolenoid.cpp successful.
+
+compiling CurtinCtre.cpp successful.
+
+compiling DeployableDevice.cpp successful.
+
+compiling PneumaticIntake.cpp successful.
+
+compiling WheeledIntake.cpp successful.
+
+compiling Toggle.cpp successful.
+
+compiling LimitSwitch.cpp successful.
+
+compiling Elevator.cpp successful.
+
+compiling RobotStartup.cpp successful.
+
+compiling Encoder.cpp successful.
+
+compiling CurtinCtre.cpp successful.
+
+compiling Drivetrain.cpp successful.
+
+compiling CurtinControllers.cpp successful.
+
+Finished compileCurtinFrcCommonLinuxathenaDebugStaticLibraryCurtinFrcCommonLinuxathenaDebugStaticLibraryCpp, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcCommonLinuxathenaDebugStaticLibraryCurtinFrcCommonLinuxathenaDebugStaticLibraryCpp/output.txt.

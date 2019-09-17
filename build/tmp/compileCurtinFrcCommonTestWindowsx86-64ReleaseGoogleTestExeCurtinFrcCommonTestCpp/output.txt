@@ -1,0 +1,12 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonTestCpp/output.txt for all output for compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonTestCpp.
+compiling main.cpp successful.
+main.cpp
+
+compiling test_Joystick.cpp successful.
+test_Joystick.cpp
+D:\Users\Conno\Desktop\Code\ModularVisionTracking\common\src\test\cpp\test_Joystick.cpp(25) : warning C4715: 'testing::Joystick::GetAxis': not all control paths return a value
+
+compiling test_Toggle.cpp successful.
+test_Toggle.cpp
+
+Finished compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonTestCpp, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonTestCpp/output.txt.

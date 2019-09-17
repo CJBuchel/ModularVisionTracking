@@ -1,0 +1,71 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonWindowsx86-64ReleaseStaticLibraryCpp/output.txt for all output for compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonWindowsx86-64ReleaseStaticLibraryCpp.
+compiling BinaryEncoderMotor.cpp successful.
+BinaryEncoderMotor.cpp
+
+compiling BinaryLimitMotor.cpp successful.
+BinaryLimitMotor.cpp
+
+compiling DoubleSolenoid.cpp successful.
+DoubleSolenoid.cpp
+
+compiling CurtinControllers.cpp successful.
+CurtinControllers.cpp
+
+compiling CurtinCtre.cpp successful.
+CurtinCtre.cpp
+
+compiling DeployableDevice.cpp successful.
+DeployableDevice.cpp
+
+compiling Drivetrain.cpp successful.
+Drivetrain.cpp
+
+compiling Elevator.cpp successful.
+Elevator.cpp
+
+compiling PneumaticIntake.cpp successful.
+PneumaticIntake.cpp
+
+compiling WheeledIntake.cpp successful.
+WheeledIntake.cpp
+
+compiling Encoder.cpp successful.
+Encoder.cpp
+
+compiling LimitSwitch.cpp successful.
+LimitSwitch.cpp
+
+compiling physics_updater.cpp successful.
+physics_updater.cpp
+
+compiling curtin_ctre.cpp successful.
+curtin_ctre.cpp
+
+compiling Toggle.cpp successful.
+Toggle.cpp
+
+compiling simulation.cpp successful.
+simulation.cpp
+
+compiling window.cpp successful.
+window.cpp
+
+compiling window_manager.cpp successful.
+window_manager.cpp
+
+compiling control.cpp successful.
+control.cpp
+
+compiling simulation_startup.cpp successful.
+simulation_startup.cpp
+
+compiling elevators.cpp successful.
+elevators.cpp
+
+compiling motors.cpp successful.
+motors.cpp
+
+compiling drivetrains.cpp successful.
+drivetrains.cpp
+
+Finished compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonWindowsx86-64ReleaseStaticLibraryCpp, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcCommonTestWindowsx86-64ReleaseGoogleTestExeCurtinFrcCommonWindowsx86-64ReleaseStaticLibraryCpp/output.txt.

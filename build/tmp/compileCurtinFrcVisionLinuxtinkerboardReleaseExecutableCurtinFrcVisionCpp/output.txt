@@ -1,0 +1,6 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp/output.txt for all output for compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp.
+compiling main.cpp successful.
+
+compiling vision.cpp successful.
+
+Finished compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp/output.txt.

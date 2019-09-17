@@ -1,12 +1,29 @@
-(This project is in development for the 2020 FRC game, and/or use in the preseason training. And may not build or run properly yet)
+# Vision-Tracking-Format
+A simple vision tracking format to use and create other programs with, by deafult it should be somewhat setup for the 2019 FRC game Deep Space
 
-# ModularVisionTracking
-- This program is used for easy placement into an FRC program, using modularity and easy change for the required game.
-- To build Program use (`.\gradlew vision:build`) To Run Program use (`.\gradlew vision:runvision`) .To deploy to a tinkerboard or pi use (`.\gradlew vision:deploy`)  Note that when using tinkerboard deploy might not work to OS, you might need to use Raspbian ISO properly installed to the sd
+Vision Tracking Documentation.
+===
 
-## Usage 
-- To use modular vision tracking (using the options given) navigate to `visionMap.cpp`, and make sure you have `usingCJlib = true`.
-- Then you can change the options as you see fit, it also gives the option for a custom colour config, and a custom detection within the options. And boom, that easy, run or deploy your program and it should give you values from the detection to network tables. (if you are using the [CurtinFRC GUI](https://github.com/CJBuchel/CurtinGUI-Published) then you can simply login and see the camera output. else you can use shuffleboard, SmartDashboard or web ui to view the camera output
-- But if your the kind of person who needs a very specific set of tracking, look no further. Just change the boolean in `visionMap.cpp -> usingCJlib` to `false` and it will use the custom library that you give and custom vision tracking cpp folders. inside `CustomVision` and `CustomLib` it's comes with a preset of code that detects a green object using a ring light and gives an X & Y offset. But of course, you can change it to what ever you need.
+## All Vision Tracking code is located in the folder [Vision](vision)
 
-## [More Info](vision)
+# Getting started
+### 1. Grab the image:
+  - [Tinkerboard Image](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_S/20181023-tinker-board-linaro-stretch-alip-v2.0.8.img.zip)
+    - Make sure you use version 2.0.8! v1.8 doesn't work with some USB cameras (nor the Kinect) due to a kernel problem.
+  - [Raspberry Pi](https://downloads.raspberrypi.org/raspbian_lite_latest)
+### 2. Flash the image onto a microsd card using etcher: https://etcher.io/
+  - You will need to grab the .img file from the zip. The .img file is what you give to etcher.
+  - After complete, insert the microSD card and startup the coprocessor. It may take a minute or two.
+### 3. SSH into the Coprocessor
+  - On Mac/Linux, use `ssh username@hostname`
+  - On Windows, download [puTTY](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.70-installer.msi) and use that.
+  - Tinkerboard:
+    - Hostname: `tinkerboard`, Username: `linaro`, Password: `linaro`
+  - Raspberry Pi:
+    - Hostname: `raspberrypi`, Username: `pi`, Password: `raspberry`
+### 4. Run the following command:
+  - `wget --no-check-certificate -qO - https://github.com/CJBuchel/Vision-Tracking-Format/blob/master/vision/bootstrap.sh?raw=1 | bash`
+### 5. Your Coprocessor will now restart
+### 6. Run your code locally on your computer using (`.\gradlew :vision:runvision` or simply type `.\gradlew runvision`)
+### 7. Deploy `./gradlew :vision:deploy` (`./gradlew :vision:deploy -Praspberry` for the Raspberry Pi) to deploy your code!
+

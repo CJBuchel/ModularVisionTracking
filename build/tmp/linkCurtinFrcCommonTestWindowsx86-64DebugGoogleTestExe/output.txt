@@ -1,0 +1,10 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/linkCurtinFrcCommonTestWindowsx86-64DebugGoogleTestExe/output.txt for all output for linkCurtinFrcCommonTestWindowsx86-64DebugGoogleTestExe.
+linking curtinFrcCommonTest.exe successful.
+googletestd.lib(gtest.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'googletestd.lib(gtest.obj)' or at 'D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcCommonTest\windowsx86-64\debug\vc140.pdb'; linking object as if no debug info
+googletestd.lib(gtest-port.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'googletestd.lib(gtest-port.obj)' or at 'D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcCommonTest\windowsx86-64\debug\vc140.pdb'; linking object as if no debug info
+googletestd.lib(gtest-filepath.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'googletestd.lib(gtest-filepath.obj)' or at 'D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcCommonTest\windowsx86-64\debug\vc140.pdb'; linking object as if no debug info
+googletestd.lib(gtest-death-test.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'googletestd.lib(gtest-death-test.obj)' or at 'D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcCommonTest\windowsx86-64\debug\vc140.pdb'; linking object as if no debug info
+googletestd.lib(gtest-printers.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'googletestd.lib(gtest-printers.obj)' or at 'D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcCommonTest\windowsx86-64\debug\vc140.pdb'; linking object as if no debug info
+googletestd.lib(gtest-test-part.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'googletestd.lib(gtest-test-part.obj)' or at 'D:\Users\Conno\Desktop\Code\ModularVisionTracking\build\exe\curtinFrcCommonTest\windowsx86-64\debug\vc140.pdb'; linking object as if no debug info
+
+Finished linkCurtinFrcCommonTestWindowsx86-64DebugGoogleTestExe, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/linkCurtinFrcCommonTestWindowsx86-64DebugGoogleTestExe/output.txt.

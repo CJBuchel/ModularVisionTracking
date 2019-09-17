@@ -1,0 +1,35 @@
+/TP
+/nologo
+/c
+/DRUNNING_FRC_TESTS
+/EHsc
+/DNOMINMAX
+/Zi
+/FS
+/Zc:inline
+/O2
+/MD
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\common\src\curtinFrcCommonTest\headers
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\wpilibc-cpp-2019.3.1-headers.zip_b81507b0c50c581f7502538d67c4b01b
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\hal-cpp-2019.3.1-headers.zip_b5e48025237aeab46db504a7b2f66655
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\wpiutil-cpp-2019.3.1-headers.zip_5e342f497d78cde8042c25fea7a66506
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\ntcore-cpp-2019.3.1-headers.zip_9555d7c48fd82baf566f02717a6c3cb0
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cscore-cpp-2019.3.1-headers.zip_6f6b3f86ef5e8708aac28c5ba02696ca
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cameraserver-cpp-2019.3.1-headers.zip_992d6c67f4984f018ec363e9353431cb
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-headers.zip_ed19d56be47d37c8193b8f0377a9cfe6
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\googletest-1.8.0-4-4e4df22-headers.zip_6df6026f32d57a167443a587edfa5107
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\navx-cpp-3.1.344-headers.zip_744b022e6074b8136dc4cb47e25c93fd
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\Pathfinder-Core-2019.1.11-headers.zip_84065aafe5c52c8ce29576b06ac90679
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\Pathfinder-FRCSupport-2019.1.11-headers.zip_470fae2606205f232887b5e1e74e80a6
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\wpiapi-cpp-5.12.1-headers.zip_97f59bce4d16b98c31d785272d2cbf90
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\api-cpp-5.12.1-headers.zip_e986b26473fb15f3bc8719ff3984c310
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cci-5.12.1-headers.zip_ac01d991886b7cad435836f8b648e3f3
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\core-5.12.1-headers.zip_a0ce3d09c679775751593f941c53f00d
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\common\src\curtinFrcCommon\headers
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\common\src\main\include
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\common\src\robot\include
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\common\src\simulation\include
+/ID:\VisualStudio\VC\Tools\MSVC\14.20.27508\include
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt"

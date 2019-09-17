@@ -1,0 +1,8 @@
+@echo off
+setlocal
+set HALSIM_EXTENSIONS=
+set PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\cmake-3.13.2;C:\opencv\build\x64\vc14\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PuTTY\;C:\Users\Public\frc2019\roborio\bin;C:\Users\Public\frc2019\frccode;C:Users\Public;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\gradle\tools\gradle-5.2.1;C:\ProgramData\chocolatey\lib\gradle\tools\gradle-5.2.1\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\CMake\bin;C:\Program Files\Git LFS;C:\Program Files\Java\jre1.8.0_212;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Conno\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Conno\AppData\Local\Programs\Python\Python37-32\;C:\Users\Conno\AppData\Local\Microsoft\WindowsApps;C:\cygwin64\bin;C:\MinGW\bin;C:\Program Files\Java\jre1.8.0_191\bin;C:\Users\Public\frc2019\roborio\bin;C:\Users\Public\frc2019\frccode;C:Users\Public;C:\Program Files\JetBrains\DataGrip 2018.3.3\bin;;;C:\Users\Conno\AppData\Local\Microsoft\WindowsApps;D:\Users\Conno\Desktop\Code\2020-Vision-Tracking-Template\build\install\curtinFrcVision\windowsx86-64\debug\lib
+pushd D:\Users\Conno\Desktop\Code\2020-Vision-Tracking-Template\build\install\curtinFrcVision\windowsx86-64\debug\lib
+"D:\Users\Conno\Desktop\Code\2020-Vision-Tracking-Template\build\install\curtinFrcVision\windowsx86-64\debug\curtinFrcVision.bat"
+popd
+endlocal

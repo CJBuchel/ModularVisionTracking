@@ -1,0 +1,4 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/linkCurtinFrcCommonWindowsx86-64DebugSharedLibrary/output.txt for all output for linkCurtinFrcCommonWindowsx86-64DebugSharedLibrary.
+linking curtinFrcCommon.dll successful.
+
+Finished linkCurtinFrcCommonWindowsx86-64DebugSharedLibrary, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/linkCurtinFrcCommonWindowsx86-64DebugSharedLibrary/output.txt.

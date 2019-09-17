@@ -1,0 +1,22 @@
+/TP
+/nologo
+/c
+/D__DESKTOP__
+/DDEBUG
+/EHsc
+/DNOMINMAX
+/Zi
+/FS
+/Zc:inline
+/Od
+/MDd
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\vision\src\main\include
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-headers.zip_ed19d56be47d37c8193b8f0377a9cfe6
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cameraserver-cpp-2019.3.1-headers.zip_992d6c67f4984f018ec363e9353431cb
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\cscore-cpp-2019.3.1-headers.zip_6f6b3f86ef5e8708aac28c5ba02696ca
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\ntcore-cpp-2019.3.1-headers.zip_9555d7c48fd82baf566f02717a6c3cb0
+/ID:\Users\Conno\Desktop\Code\ModularVisionTracking\build\tmp\expandedArchives\wpiutil-cpp-2019.3.1-headers.zip_5e342f497d78cde8042c25fea7a66506
+/ID:\VisualStudio\VC\Tools\MSVC\14.20.27508\include
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt"

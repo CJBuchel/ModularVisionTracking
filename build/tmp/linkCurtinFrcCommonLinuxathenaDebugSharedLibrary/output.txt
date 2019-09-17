@@ -1,0 +1,4 @@
+See file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/linkCurtinFrcCommonLinuxathenaDebugSharedLibrary/output.txt for all output for linkCurtinFrcCommonLinuxathenaDebugSharedLibrary.
+linking libcurtinFrcCommon.so successful.
+
+Finished linkCurtinFrcCommonLinuxathenaDebugSharedLibrary, see full log file:///D:/Users/Conno/Desktop/Code/ModularVisionTracking/build/tmp/linkCurtinFrcCommonLinuxathenaDebugSharedLibrary/output.txt.
